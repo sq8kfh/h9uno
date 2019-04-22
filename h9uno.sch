@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:h9uno-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -37,7 +36,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "h9uno"
-Date ""
+Date "2018-02-01"
 Rev "1"
 Comp "SQ8KFH"
 Comment1 ""
