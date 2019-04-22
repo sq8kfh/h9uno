@@ -1,4 +1,4 @@
-update=wtorek, 30 stycznia 2018 19:29:55
+update=poniedziałek, 22 kwietnia 2019 15:32:37
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=/Users/crowx/projekty/h9/arduino-kicad-library
+LibDir=libs/arduino-kicad-library
 [eeschema/libraries]
 LibName1=power
 LibName2=device

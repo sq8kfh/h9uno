@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:h9uno-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -763,7 +764,7 @@ Wire Wire Line
 Wire Wire Line
 	2950 5700 3150 5700
 $Comp
-L Arduino_Uno_Shield ARD1
+L Arduino_Uno_Shield-RESCUE-h9uno ARD1
 U 1 1 5A70C06A
 P 8500 2450
 F 0 "ARD1" V 8600 2450 60  0000 C CNN
